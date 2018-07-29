@@ -1,124 +1,63 @@
-Diesel,Cotton Sport Shirt,
-			$178.00
-Thom Browne,Cotton Shirt,
-			$590.00
-Ermenegildo Zegna,Milano Suit,
-			$3495.00
-Eton,Slim Fit Dress Shirt,
-			$290.00
-Paul & Shark,Printed Cotton & Wool Blend Shirt,
-			$295.00
-Z Zegna,Drop 8 Turati Suit,
-			$1698.00
-Eton,Slim Fit Dress Shirt,
-			$290.00
-Ermenegildo Zegna,Milano Suit,
-			$3295.00
-Eton,Contemporary Fit Dress Shirt,
-			$280.00
-Eton,Slim Fit Dress Shirt,
-			$280.00
-Ermenegildo Zegna,Torino Multi-Season Suit,
-			$3295.00
-Moncler,Rodez Down Jacket,
-			$1430.00
-Giorgio Armani,V-Neck T-Shirt,
-			$375.00
-Ermenegildo Zegna,Couture Suit,
-			$6185.00
-Ermenegildo Zegna,Milano Suit,
-			$3295.00
-Brunello Cucinelli,Waterproof Down Vest,
-			$1775.00
-Ermenegildo Zegna,Long-Sleeve Cotton Polo,
-			$475.00
-Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,
-			$1175.00
-Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,
-			$1175.00
-Brunello Cucinelli,Waterproof Down Vest,
-			$3025.00
-Ermenegildo Zegna,Cotton Blend Zip-Up Sweater,
-			$875.00
-Brunello Cucinelli,Wool Blend Sweater,
-			$1145.00
-Ermenegildo Zegna,Cotton Blend Zip-Up Sweater,
-			$875.00
-Paul & Shark,Crew Neck Wool Sweater,
-			$395.00
-Paul & Shark,Cashmere & Wool Blend Sweater,
-			$495.00
-Giorgio Armani,V-Neck T-Shirt,
-			$375.00
-Brunello Cucinelli,Waterproof Down Coat,
-			$3895.00
-Z Zegna,Drop 8 Turati Suit,
-			$1698.00
-Giorgio Armani,Upton Unstructured Sports Jacket,
-			$3395.00
-Ermenegildo Zegna,Torino Trofeo Suit,
-			$3495.00
-Ermenegildo Zegna,Milano Easy Sports Jacket,
-			$2995.00
-Z Zegna,Drop 8 Turati Suit,
-			$1598.00
-Z Zegna,Drop 8 Turati Suit,
-			$1598.00
-Z Zegna,Drop 8 Turati Suit,
-			$1498.00
-Z Zegna,Drop 8 Turati Suit,
-			$1498.00
-Z Zegna,Drop 8 Turati Suit,
-			$1598.00
-Z Zegna,Drop 8 Suit,
-			$1498.00
-Brunello Cucinelli,Long-Sleeve Virgin Wool Blend Polo,
-			$1175.00
-Brunello Cucinelli,Wool & Cashmere Bomber Jacket,
-			$5395.00
-Z Zegna,Drop 8 Suit,
-			$1498.00
-Brunello Cucinelli,Waterproof Down Vest,
-			$1775.00
-Loro Piana,Zip-Up Cashmere Sweater,
-			$3880.00
-Loro Piana,Printed Cotton Shirt,
-			$680.00
-Ermenegildo Zegna,Half-Zip Cashmere & Silk Sweater,
-			$2150.00
-Loro Piana,Slim Fit Pants,
-			$780.00
-Thom Browne,Down-Filled Jacket,
-			$3650.00
-Loro Piana,Unstructured Sports Jacket,
-			$4330.00
-Loro Piana,Slim Fit Jeans,
-			$780.00
-Versace Collection,Slim Fit Jeans,
-			$395.00
-Loro Piana,Zip-Up Cashmere & Silk Blend Sweater,
-			$2600.00
-Loro Piana,Storm System Vest,
-			$1540.00
-Loro Piana,Storm System Vest,
-			$1540.00
-Loro Piana,Zip-Up Cashmere & Silk Blend Sweater,
-			$2600.00
-Loro Piana,Virgin Wool & Silk Blend Vest,
-			$2880.00
-Brunello Cucinelli,Skinny Fit Jeans,
-			$675.00
-Loro Piana,Cashmere Sweater,
-			$2140.00
-Loro Piana,Slim Fit Jeans,
-			$780.00
-Loro Piana,Slim Fit Jeans,
-			$780.00
-Versace Collection,Drawstring Joggers,
-			$395.00
-Diesel,Krooley JoggJeans,
-			$498.00
-Loro Piana,Unstructured Sports Jacket,
-			$4330.00
-Loro Piana,Cashmere Blend Coat,
-			$19310.00
+Brand,Product,Price
+Diesel,Cotton Sport Shirt,$178.00
+Thom Browne,Cotton Shirt,$590.00
+Ermenegildo Zegna,Milano Suit,$3495.00
+Eton,Slim Fit Dress Shirt,$290.00
+Paul & Shark,Printed Cotton & Wool Blend Shirt,$295.00
+Z Zegna,Drop 8 Turati Suit,$1698.00
+Eton,Slim Fit Dress Shirt,$290.00
+Ermenegildo Zegna,Milano Suit,$3295.00
+Eton,Contemporary Fit Dress Shirt,$280.00
+Eton,Slim Fit Dress Shirt,$280.00
+Ermenegildo Zegna,Torino Multi-Season Suit,$3295.00
+Moncler,Rodez Down Jacket,$1430.00
+Giorgio Armani,V-Neck T-Shirt,$375.00
+Ermenegildo Zegna,Couture Suit,$6185.00
+Ermenegildo Zegna,Milano Suit,$3295.00
+Brunello Cucinelli,Waterproof Down Vest,$1775.00
+Ermenegildo Zegna,Long-Sleeve Cotton Polo,$475.00
+Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,$1175.00
+Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,$1175.00
+Brunello Cucinelli,Waterproof Down Vest,$3025.00
+Ermenegildo Zegna,Cotton Blend Zip-Up Sweater,$875.00
+Brunello Cucinelli,Wool Blend Sweater,$1145.00
+Ermenegildo Zegna,Cotton Blend Zip-Up Sweater,$875.00
+Paul & Shark,Crew Neck Wool Sweater,$395.00
+Paul & Shark,Cashmere & Wool Blend Sweater,$495.00
+Giorgio Armani,V-Neck T-Shirt,$375.00
+Brunello Cucinelli,Waterproof Down Coat,$3895.00
+Z Zegna,Drop 8 Turati Suit,$1698.00
+Giorgio Armani,Upton Unstructured Sports Jacket,$3395.00
+Ermenegildo Zegna,Torino Trofeo Suit,$3495.00
+Ermenegildo Zegna,Milano Easy Sports Jacket,$2995.00
+Z Zegna,Drop 8 Turati Suit,$1598.00
+Z Zegna,Drop 8 Turati Suit,$1598.00
+Z Zegna,Drop 8 Turati Suit,$1498.00
+Z Zegna,Drop 8 Turati Suit,$1498.00
+Z Zegna,Drop 8 Turati Suit,$1598.00
+Z Zegna,Drop 8 Suit,$1498.00
+Brunello Cucinelli,Long-Sleeve Virgin Wool Blend Polo,$1175.00
+Brunello Cucinelli,Wool & Cashmere Bomber Jacket,$5395.00
+Z Zegna,Drop 8 Suit,$1498.00
+Brunello Cucinelli,Waterproof Down Vest,$1775.00
+Loro Piana,Zip-Up Cashmere Sweater,$3880.00
+Loro Piana,Printed Cotton Shirt,$680.00
+Ermenegildo Zegna,Half-Zip Cashmere & Silk Sweater,$2150.00
+Loro Piana,Slim Fit Pants,$780.00
+Thom Browne,Down-Filled Jacket,$3650.00
+Loro Piana,Unstructured Sports Jacket,$4330.00
+Loro Piana,Slim Fit Jeans,$780.00
+Versace Collection,Slim Fit Jeans,$395.00
+Loro Piana,Zip-Up Cashmere & Silk Blend Sweater,$2600.00
+Loro Piana,Storm System Vest,$1540.00
+Loro Piana,Storm System Vest,$1540.00
+Loro Piana,Zip-Up Cashmere & Silk Blend Sweater,$2600.00
+Loro Piana,Virgin Wool & Silk Blend Vest,$2880.00
+Brunello Cucinelli,Skinny Fit Jeans,$675.00
+Loro Piana,Cashmere Sweater,$2140.00
+Loro Piana,Slim Fit Jeans,$780.00
+Loro Piana,Slim Fit Jeans,$780.00
+Versace Collection,Drawstring Joggers,$395.00
+Diesel,Krooley JoggJeans,$498.00
+Loro Piana,Unstructured Sports Jacket,$4330.00
+Loro Piana,Cashmere Blend Coat,$19310.00
